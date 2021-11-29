@@ -1,0 +1,13 @@
+.hero-section{
+    background: linear-gradient(rgba(103, 82, 221, 0.6), rgba(28, 57, 99, 0)),
+    url(../../img/home-slider-2.jpg);
+    /* padding: 200px 0; */
+    padding-top: 320px;
+    padding-bottom: 210px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    min-height: calc(100vh - 40px);
+    display: flex;
+    align-items: center;
+}
