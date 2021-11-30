@@ -1,0 +1,35 @@
+[
+    {
+        "key":"1",
+        "name": "Hospital-Services",
+        "p1":"https://i.ibb.co/zVKLzdx/Screenshot-2021-11-29-192124.png",
+        "p2":"https://i.ibb.co/9qndc9p/doctor2.png",
+        "p3":"https://i.ibb.co/r4XYfqN/doctor3.png",
+        "paragraph":"This website has firebase authentication for login and logout This website has good quality treatment you can select it and purchase itAnd also the website has serval pages like blog, about it. If you are not login you can not purchase any services",
+        "github":"https://github.com/abdulmannaf145/Assignement-12-client",
+        "livelink":"https://assignment-10-208b9.web.app/",
+        "code":"React,Html,Css,Bootstrap"
+    },
+    {
+        "key":"2",
+        "name": "Travel-Services",
+        "p1":"https://i.ibb.co/wRqvW5L/Screenshot-2021-11-29-192250.png",
+        "p2":"https://i.ibb.co/XSJD0Dn/travel2.png",
+        "p3":"https://i.ibb.co/kJxPySF/travel3.png",
+        "paragraph":"This website has firebase authentication for login and logout. If anyone login this website you can see the profile and you can update your profile name and email.You can add products with a photo but you need to login first of all",
+        "github":"https://github.com/abdulmannaf145/Assignment-11-client",
+        "livelink":"https://assignment-11-ab915.web.app/home",
+        "code":"React,Html,Css,Bootstrap,Node js,MongoDb"
+    },
+    {
+        "key":"3",
+        "name": "Travel-Buy-Selling",
+        "p1":"https://i.ibb.co/bPjXjL3/Screenshot-2021-11-29-192332.png",
+        "p2":"https://i.ibb.co/HGyhvk1/car2.png",
+        "p3":"https://i.ibb.co/M2gz5X6/car3.png",
+        "paragraph":"This website has firebase authentication for login and logout. This website has admin and user views. if you are a user u can not accuse lots of things. admin can make an admin also add product. Admin can manage all products and also can delete the product and also accuse all orders",
+        "github":"https://github.com/abdulmannaf145/Car-assignment",
+        "livelink":"https://assignment-12-85161.web.app/",
+        "code":"React,Html,Css,Bootstrap,Node js,MongoDb"
+    }
+]

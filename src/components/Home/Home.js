@@ -1,5 +1,6 @@
 import React from 'react';
 import Typewriter from "typewriter-effect";
+import About from '../About/About';
 import Contact from '../Contact/Contact';
 import Projects from '../Projects/Projects';
 import './Home.css'
@@ -42,6 +43,7 @@ const Home = () => {
               </a>
                 </div>
             </div>
+            <About/>
             <Projects/>
             <Contact/>
         </>

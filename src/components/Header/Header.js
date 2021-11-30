@@ -16,7 +16,7 @@ const Header = () => {
                             <Link style={{textDecoration:'none',color:'black'}} to='/home'>Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="mx-2" style={{textDecoration:'none',color:'black'}} to='/contact'>Contact</Link>
+                            <Link className="mx-2 hover-link" style={{textDecoration:'none',color:'black'}} to='/contact'>Contact</Link>
                         </li>
                         <li className="nav-item">
                             <Link style={{textDecoration:'none',color:'black'}} to='/projects'>Projects</Link>

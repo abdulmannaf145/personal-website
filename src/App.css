@@ -30,6 +30,9 @@
   font-size: 25px;
   font-weight: 300;
 }
+.nav-item .hover-link:hover{
+  color: blue;
+}
 .button-dark {
     border: 0;
     display: inline-block;
