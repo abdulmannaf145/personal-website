@@ -23,7 +23,7 @@ const Contact = () => {
                 <div className="row">
                     <div className="col-lg-4">
                         <div className="form-box">
-                            <input className="form-control" placeholder="Enter your name" type="text" name="name" />
+                            <input required className="form-control" placeholder="Enter your name" type="text" name="name" />
                             <label htmlFor="form-name" className="icon lb-name">
                                 <i class="fas fa-user"></i>
                             </label>
@@ -31,7 +31,7 @@ const Contact = () => {
                     </div>
                     <div className="col-lg-4">
                         <div className="form-box">
-                            <input className="form-control" placeholder="Enter your Email Address" type="text" name="email" />
+                            <input required className="form-control" placeholder="Enter your Email Address" type="text" name="email" />
                             <label htmlFor="form-name" className="icon lb-name">
                                 <i class="far fa-envelope"></i>
                             </label>
@@ -39,7 +39,7 @@ const Contact = () => {
                     </div>
                     <div className="col-lg-4">
                         <div className="form-box">
-                            <input className="form-control" placeholder="Enter your Subject" type="text" name="subject"/>
+                            <input required className="form-control" placeholder="Enter your Subject" type="text" name="subject"/>
                             <label htmlFor="form-name" className="icon lb-name">
                                 <i class="fab fa-creative-commons-share"></i>
                             </label>
@@ -54,7 +54,7 @@ const Contact = () => {
                         </div>
                     </div> */}
                     <div className="col-lg-12 my-2">
-                        <textarea className="input-box" placeholder="Your message" name="message" id="" cols="30" rows="10"></textarea>
+                        <textarea  required className="input-box" placeholder="Your message" name="message" id="" cols="30" rows="10"></textarea>
                     </div>
                 </div>
                 <button className="button-dark">Send Now</button>
