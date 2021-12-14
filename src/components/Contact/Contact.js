@@ -20,7 +20,7 @@ const Contact = () => {
             <form
                 onSubmit={sendSubmit}
             >
-                <div className="row">
+                <div className="row g-4">
                     <div className="col-lg-4">
                         <div className="form-box">
                             <input required className="form-control" placeholder="Enter your name" type="text" name="name" />
